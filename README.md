@@ -940,7 +940,7 @@ copies of the Software...
 ---
 <div align="center">
 
-## 💚 Made with Love for Indian Farmers
+## 💚 Made with Love for Indian Farmers!
 
 **"Jai Jawan, Jai Kisan"**
 
